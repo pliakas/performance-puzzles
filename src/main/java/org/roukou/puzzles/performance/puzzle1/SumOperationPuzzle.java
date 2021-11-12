@@ -4,7 +4,6 @@ public class SumOperationPuzzle {
 
   public static int sum0To1395() {
     int x = 0;
-    x += 0;
     x += 1;
     x += 2;
     x += 3;
@@ -1399,13 +1398,11 @@ public class SumOperationPuzzle {
     x += 1392;
     x += 1393;
     x += 1394;
-    x += 1395;
-    return x;
+    return x += 1395;
   }
 
   public static int sum0To1396() {
     int x = 0;
-    x += 0;
     x += 1;
     x += 2;
     x += 3;
@@ -2801,13 +2798,11 @@ public class SumOperationPuzzle {
     x += 1393;
     x += 1394;
     x += 1395;
-    x += 1396;
-    return x;
+    return x += 1396;
   }
 
   public static int sum0To1397() {
     int x = 0;
-    x += 0;
     x += 1;
     x += 2;
     x += 3;
@@ -4204,7 +4199,6 @@ public class SumOperationPuzzle {
     x += 1394;
     x += 1395;
     x += 1396;
-    x += 1397;
-    return x;
+    return x += 1397;
   }
 }
