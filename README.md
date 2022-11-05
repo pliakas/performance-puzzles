@@ -1,2 +1,2 @@
 # performance-puzzles
-Performance Puzzles for happy hacking keywords
+Performance Puzzles for happy hacking hours
